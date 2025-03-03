@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Revanthraja M<br>- 👀 I’m interested in Datascience ,AI and ML and Blockchain<br>- 🌱 I’m currently learning in SJCIT<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me using revanthrajam@gmail.com<br>
+- 👋 Hi, I’m @Revanthraja M<br>- 👀 I’m interested in Datascience ,AI and ML and Blockchain<br>- 🌱 AI Developer<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me using revanthrajam@gmail.com<br>
 
 
 ## 🌐 Socials:
